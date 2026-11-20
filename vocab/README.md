@@ -6,7 +6,7 @@
 | `cause_taxonomy_2020_nodes.jsonl` | 节点表，每行 `name, level, parent, full_path` | 927 行 |
 | `cause_taxonomy_2025_tree.json` | 2025 年修正版（2026-01-01 施行）层级树 | 12 / 59 / 514 / 470 = **1055** 节点 |
 | `cause_taxonomy_2025_nodes.jsonl` | 同上，节点表 | 1055 行 |
-| `manual_mapping_2020.csv` | 15 条人工核定映射（别名 → 规范名，含父节点与依据） | 15 行 |
+| `manual_mapping_2020.csv` | 15 条人工核定映射（别名 → 规范名，含父节点与法律依据） | 15 行 |
 | `name_map_2020_to_2025.csv` | 2020 版名称到 2025 版的映射（`name_2020, status, name_2026`，`status ∈ exact/renamed/...`） | 1093 行 |
 
 说明：
