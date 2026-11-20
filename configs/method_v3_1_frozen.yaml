@@ -1,0 +1,61 @@
+# method v3.1 frozen config (step 10A)
+# frozen at commit a2b9285 (tag: method-v3.1-frozen, 2026-11-20)
+# only change vs configs/method_v3_frozen.yaml: eta normalization fixed in code (no param change)
+# and the search budget B is re-selected on the dev set (B=16 instead of 32).
+version: "3.1"
+frozen_commit: "a2b9285"
+frozen_tag: "method-v3.1-frozen"
+
+# --- eta (eq.6, corrected in step 10A) ---
+eta_formula: "(n(p^v)+eps)/(sum_u n(p^u)+eps*|S(p)|)"
+eps: 0.5
+
+# --- prior / blending (eq.7-8) ---
+kappa: 2.0            # tau: prior sharpening temperature
+lam: 0.3              # lambda: weight of hierarchical prior
+# theta = lam * mu + (1-lam) * eta
+
+# --- tree search (eq.9-10) ---
+n_sim: 16             # B: simulations per sample (MAIN search)
+n_sim_lo: 8           # secondary search, only for the search-effectiveness check
+c_base: 2.0           # c0
+c_decay: 0.3          # delta: c_d = max(0.2, c0 - delta*(d-1))
+max_depth: 5
+max_paths: 4          # M
+
+# --- voting (K open-ended samples) ---
+k_votes: 16
+vote_temp: 0.7
+vote_top_p: 0.95
+vote_max_tokens: 96
+
+# --- calibrator ---
+calib_threshold: 0.83  # omega, BERT-wwm-ext cosine
+
+# --- evaluator (eq.12) ---
+j_alpha: 0.5          # share weight
+j_beta: 0.5           # consistency weight
+# J = alpha * share + beta * a
+
+# --- io ---
+input_chars: 4000
+seed: 1
+
+# --- dev grid selection (step 10A, 12 configs, dev 231) ---
+dev_grid_best:
+  config: "s16_t2_l0.3"
+  n_sim: 16
+  kappa: 2.0
+  lam: 0.3
+  macro_f1: 0.5417
+  accuracy: 0.6623
+  macro_f1_goldset: 0.6543
+  hvr: 1.0
+  n_classes: 93
+old_selection_step7_8:
+  config: "t2_l0.3"
+  n_sim: 32
+  kappa: 2.0
+  lam: 0.3
+  dev_macro_f1: 0.5331
+  dev_accuracy: 0.6580

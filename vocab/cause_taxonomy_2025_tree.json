@@ -1,0 +1,5463 @@
+{
+ "version": "2025",
+ "counts": {
+  "level1": 12,
+  "level2": 59,
+  "level3": 514,
+  "level4": 470
+ },
+ "total": 1055,
+ "tree": {
+  "name": "__ROOT__",
+  "level": 0,
+  "children": [
+   {
+    "name": "人格权纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "人格权纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "生命权、身体权、健康权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "姓名权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "名称权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "肖像权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "声音保护纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "名誉权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "荣誉权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "隐私权、个人信息保护纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "隐私权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "个人信息保护纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "婚姻自主权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "人身自由权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "一般人格权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "平等就业权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "婚姻家庭、继承纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "婚姻家庭纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "婚约财产纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "婚内夫妻财产分割纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "离婚纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "离婚后财产纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "离婚后损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "婚姻无效纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "撤销婚姻纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "夫妻财产约定纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "同居关系纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "同居关系析产纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "同居关系子女抚养纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "亲子关系纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "确认亲子关系纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "否认亲子关系纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "抚养纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "抚养费纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "变更抚养关系纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "扶养纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "扶养费纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "变更扶养关系纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "赡养纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "赡养费纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "变更赡养关系纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "收养关系纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "确认收养关系纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "解除收养关系纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "监护权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "探望权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "分家析产纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "继承纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "法定继承纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "转继承纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "代位继承纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "遗嘱继承纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "被继承人债务清偿纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "遗赠纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "遗赠扶养协议纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "非遗产继承人分配遗产纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "遗产管理纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "遗产管理人责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "遗产管理人报酬纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "物权纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "不动产登记纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "异议登记不当损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "虚假登记损害责任纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "物权保护纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "物权确认纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "所有权确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "用益物权确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "担保物权确认纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "返还原物纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "排除妨害纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "消除危险纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "修理、重作、更换纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "恢复原状纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "财产损害赔偿纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "所有权纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "侵害集体经济组织成员权益纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "侵害集体经济组织权益纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "建筑物区分所有权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "业主专有权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "业主共有权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "车位纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "车库纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "业主撤销权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "业主知情权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "遗失物返还纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "漂流物返还纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "埋藏物返还纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "隐藏物返还纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "添附物归属纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "相邻关系纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "相邻用水、排水纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "相邻通行纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "相邻土地、建筑物利用关系纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "相邻通风纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "相邻采光、日照纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "相邻污染侵害纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "相邻损害防免关系纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "共有纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "共有权确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "共有物分割纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "共有人优先购买权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "债权人代位析产纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "自然资源资产损害赔偿纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "用益物权纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "海域使用权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "探矿权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "采矿权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "矿产资源压覆补偿纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "取水权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "养殖权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "捕捞权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "土地承包经营权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "土地承包经营权确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "承包地征收补偿费用分配纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "土地承包经营权继承纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "土地经营权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "建设用地使用权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "宅基地使用权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "居住权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "地役权纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "担保物权纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "抵押权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "建筑物和其他土地附着物抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "在建建筑物抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建设用地使用权抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "土地经营权抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "探矿权抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "采矿权抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "海域使用权抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "动产抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "在建船舶、航空器抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "动产浮动抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "最高额抵押权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "质权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "动产质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "转质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "最高额质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "票据质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "债券质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "存单质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "仓单质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "提单质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "股权质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "基金份额质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "知识产权质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "应收账款质权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "环境资源相关权利质权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "留置权纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "占有保护纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "占有物返还纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "占有排除妨害纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "占有消除危险纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "占有物损害赔偿纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "合同、准合同纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "合同纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "缔约过失责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "预约合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "确认合同效力纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "确认合同有效纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认合同无效纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "债权人代位权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "债权人撤销权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "债权转让合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "债务转移合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "债权债务概括转移合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "债务加入纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "悬赏广告纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "买卖合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "分期付款买卖合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "凭样品买卖合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "试用买卖合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "所有权保留买卖合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "招标投标买卖合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "互易纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "国际货物买卖合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "信息网络买卖合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "拍卖合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "建设用地使用权合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "建设用地使用权出让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建设用地使用权转让合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "临时用地合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "勘查、开采矿产临时用地合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "探矿权转让合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "采矿权转让合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "矿产资源压覆补偿合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "房地产开发经营合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "委托代建合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "合资、合作开发房地产合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "项目转让合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "房屋买卖合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "商品房预约合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "商品房预售合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "商品房销售合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "商品房委托代理销售合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "经济适用房转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "农村房屋买卖合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "民事主体间房屋拆迁补偿合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "供用电合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "供用水合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "供用气合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "供用热力合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "排污权交易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "用能权交易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "用水权交易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "碳排放权交易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "碳汇交易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "赠与合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "公益事业捐赠合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "附义务赠与合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "借款合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "金融借款合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "同业拆借纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "民间借贷纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "小额借款合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "金融不良债权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "金融不良债权追偿纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "保证合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "抵押合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "质押合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "定金合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "进出口押汇纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "储蓄存款合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "银行卡纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "借记卡纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "信用卡纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "租赁合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "土地租赁合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "房屋租赁合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "车辆租赁合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建筑设备租赁合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "融资租赁合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "保理合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "有追索权保理纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "无追索权保理纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "多重保理纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "承揽合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "加工合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "定作合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "修理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "复制合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "测试合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "检验合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "铁路机车、车辆建造合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "建设工程合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "建设工程勘察合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建设工程设计合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建设工程施工合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建设工程价款优先受偿权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建设工程分包合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建设工程监理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "装饰装修合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "铁路修建合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "农村建房施工合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "矿山建设工程合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "电、水、气、热力工程合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "生态环境保护工程合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "运输合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "公路旅客运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "公路货物运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "水路旅客运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "水路货物运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "航空旅客运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "航空货物运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "出租汽车运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "管道运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "城市公交运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "联合运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "多式联运合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "铁路货物运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "铁路旅客运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "铁路行李运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "铁路包裹运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "国际铁路联运合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "国际航空运输合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "国际公路运输合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "保管合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "仓储合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "委托合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "进出口代理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "货运代理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "民用航空运输销售代理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "诉讼、仲裁、人民调解代理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "销售代理合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "委托理财合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "金融委托理财合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "民间委托理财合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "物业服务合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "行纪合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "中介合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "补偿贸易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "借用合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "典当纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "合伙合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "种植、养殖回收合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "彩票、奖券纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "中外合作勘探开发自然资源合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "农业承包合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "林业承包合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "渔业承包合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "牧业承包合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "土地承包经营权合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "土地承包经营权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "土地承包经营权互换合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "土地经营权入股合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "土地经营权抵押合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "土地经营权出租合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "居住权合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "服务合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "电信服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "邮政服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "快递服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "医疗服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "法律服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "旅游合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "房地产咨询合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "房地产价格评估合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "旅店服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "财会服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "餐饮服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "娱乐服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "有线电视服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "网络服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "教育培训合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "家政服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "庆典服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "殡葬服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "农业技术服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "农机作业服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "保安服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "银行结算合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "养老服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "环境资源服务合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "演出合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "劳务合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "超龄劳动者劳务合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "广告合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "展览合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "追偿权纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "不当得利纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "不当得利纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "无因管理纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "无因管理纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "知识产权与竞争纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "知识产权合同纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "著作权合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "委托创作合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "合作创作合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "著作权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "著作权许可使用合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "出版合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "表演合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "音像制品制作合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "广播电视播放合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "邻接权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "邻接权许可使用合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "计算机软件开发合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "计算机软件著作权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "计算机软件著作权许可使用合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "商标合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "商标权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "商标使用许可合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "商标代理合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "发明专利合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "发明专利申请权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "发明专利权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "发明专利实施许可合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "发明专利代理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "发明专利开放许可纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "实用新型专利合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "实用新型专利申请权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "实用新型专利权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "实用新型专利实施许可合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "实用新型专利代理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "实用新型专利开放许可纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "外观设计专利合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "外观设计专利申请权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外观设计专利权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外观设计专利实施许可合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外观设计专利代理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外观设计专利开放许可纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "植物新品种合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "植物新品种育种合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "植物新品种申请权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "植物新品种权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "植物新品种实施许可合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "集成电路布图设计合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "集成电路布图设计创作合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "集成电路布图设计专有权转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "集成电路布图设计许可使用合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "商业秘密合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "技术秘密让与合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术秘密许可使用合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "经营秘密让与合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "经营秘密许可使用合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "技术合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "技术委托开发合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术合作开发合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术转化合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术许可合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术咨询合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术服务合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术培训合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术中介合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术进口合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术出口合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "职务技术成果完成人奖励、报酬纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "技术成果完成人署名权、荣誉权、奖励权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "特许经营合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业名称（商号）合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "企业名称（商号）转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "企业名称（商号）使用合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "特殊标志合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "网络域名合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "网络域名注册合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "网络域名转让合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "网络域名许可使用合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "知识产权质押合同纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "知识产权权属、侵权纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "著作权权属、侵权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "著作权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品发表权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品署名权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品修改权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害保护作品完整权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品复制权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品发行权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品出租权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品展览权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品表演权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品放映权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品广播权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品信息网络传播权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品摄制权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品改编权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品翻译权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害作品汇编权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害其他著作财产权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "出版者权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "表演者权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "录音录像制作者权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "广播组织权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害出版者权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害表演者权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害录音录像制作者权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害广播组织权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "计算机软件著作权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害计算机软件著作权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "商标权权属、侵权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "商标权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害商标权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "地理标志侵权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "发明专利权权属、侵权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "发明专利申请权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "发明专利权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害发明专利权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "假冒发明专利纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "发明专利临时保护期使用费纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "发明专利职务发明人奖励、报酬纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "发明专利发明人署名权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "实用新型专利权权属、侵权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "实用新型专利申请权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "实用新型专利权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害实用新型专利权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "假冒实用新型专利纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "实用新型专利职务发明人奖励、报酬纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "实用新型专利发明人署名权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "外观设计专利权权属、侵权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "外观设计专利申请权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外观设计专利权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害外观设计专利权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "假冒外观设计专利纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外观设计专利职务设计人奖励、报酬纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外观设计专利设计人署名权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "标准必要专利纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "侵害标准必要专利权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "标准必要专利许可纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "植物新品种权权属、侵权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "植物新品种申请权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "植物新品种权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害植物新品种权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "假冒植物新品种纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "植物新品种临时保护期使用费纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "植物新品种培育人署名权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认实质性派生品种纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "集成电路布图设计专有权权属、侵权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "集成电路布图设计专有权权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害集成电路布图设计专有权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "集成电路布图设计专有权创作者署名权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "侵害企业名称（商号）权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "侵害特殊标志专有权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "网络域名权属、侵权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "网络域名权属纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害网络域名纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "发现权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "发明权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "其他科技成果权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "确认不侵害知识产权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "确认不侵害发明专利权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害实用新型专利权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害外观设计专利权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害商标权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害著作权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害植物新品种权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害集成电路布图设计专有权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害计算机软件著作权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害技术秘密纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "确认不侵害经营秘密纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "药品专利链接纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "因申请知识产权临时措施损害责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "因申请停止侵害著作权损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害注册商标专用权损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害发明专利权损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害实用新型专利权损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害外观设计专利权损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害植物新品种权损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害计算机软件著作权损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害集成电路布图设计专有权损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请海关知识产权保护措施损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害技术秘密损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "因申请停止侵害经营秘密损害责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "因恶意提起知识产权诉讼损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "专利权宣告无效后返还费用纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "发明专利权宣告无效后返还费用纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "实用新型专利权宣告无效后返还费用纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外观设计专利权宣告无效后返还费用纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "植物新品种权宣告无效后返还费用纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "集成电路布图设计专有权撤销后返还费用纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "不正当竞争纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "仿冒纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "擅自使用与他人有一定影响的商品名称、包装、装潢等相同或者近似的标识纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "擅自使用他人有一定影响的名称、姓名纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "擅自使用他人有一定影响的网络活动标识纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "商业贿赂不正当竞争纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "虚假宣传纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "侵害商业秘密纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "侵害技术秘密纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "侵害经营秘密纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "不正当有奖销售纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "商业诋毁纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "串通投标不正当竞争纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "网络不正当竞争纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "妨碍、破坏合法网络产品或者服务纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "不正当获取、使用数据纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "滥用平台规则恶意交易纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "平台经营者强制低价销售纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "滥用优势地位拖欠中小企业账款纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "垄断纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "垄断协议纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "横向垄断协议纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "纵向垄断协议纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "组织、帮助达成垄断协议纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "滥用市场支配地位纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "不公平价格纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "低于成本销售纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "拒绝交易纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "限定交易纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "搭售、附加其他不合理交易条件纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "差别待遇纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "其他滥用市场支配地位纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "经营者集中纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "数据、网络虚拟财产纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "数据纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "数据权属纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "数据合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "侵害数据权益纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "网络虚拟财产纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "网络虚拟财产权属纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "网络虚拟财产合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "侵害网络虚拟财产权益纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "劳动争议、人事争议、新就业形态用工纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "劳动争议",
+      "level": 2,
+      "children": [
+       {
+        "name": "劳动合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "确认劳动关系纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "集体合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "劳务派遣合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "非全日制用工纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "追索劳动报酬纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "经济补偿金纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "竞业限制纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "社会保险纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "养老保险待遇纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "工伤保险待遇纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "医疗保险待遇纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "生育保险待遇纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "失业保险待遇纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "福利待遇纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "超龄劳动者用工纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "承包人、被挂靠人用工主体责任纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "人事争议",
+      "level": 2,
+      "children": [
+       {
+        "name": "聘用合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "聘任合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "辞职纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "辞退纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "新就业形态用工纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "新就业形态用工合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "新就业形态确认劳动关系纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "新就业形态追索劳动报酬纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "新就业形态社会保险纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "新就业形态工伤保险待遇纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "新就业形态职业伤害保障纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "海事海商纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "海事海商纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "船舶碰撞损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶触碰损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶损坏空中设施、水下设施损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶污染损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域污染损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域养殖损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域财产损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域人身损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "非法留置船舶、船载货物、船用燃油、船用物料损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶部件、物料产品责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海运物流服务合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域货物运输合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域旅客运输合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域行李运输合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶经营管理合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶买卖合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶工程合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "船舶建造合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "船舶修理合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "船舶改建合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "船舶拆解合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "船舶设计合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船员劳务合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船员劳动合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船员劳务派遣合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船员服务合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶抵押合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶租用合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "定期租船合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "光船租赁合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "航次租船合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "船舶融资租赁合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域运输船舶承包合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "渔船承包合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶属具租赁合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶属具保管合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海运集装箱租赁合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海运集装箱保管合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "港口货物保管合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶代理合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域货运代理合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "航运经纪合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "理货合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶物料和备品供应合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海难救助合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域打捞合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域拖航合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域保险合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域保赔合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域运输联营合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶营运借款合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海事担保合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "航道、港口疏浚合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船坞、码头建造合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "港口、码头租赁合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶检验合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海事请求担保纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海上、通海水域运输重大责任事故责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "港口作业重大责任事故责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "港口作业纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "共同海损纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海洋开发利用纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "船舶物权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "船舶所有权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "船舶抵押权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "船舶优先权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "船舶留置权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "船舶投资经营纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海运欺诈纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "海事债权确权纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "与公司、证券、保险、票据等有关的民事纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "与企业有关的纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "企业出资人权益确认纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "侵害企业出资人权益纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业公司制改造合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业股份合作制改造合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业债权转股权合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业分立合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业租赁经营合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业出售合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "挂靠经营合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业兼并合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "联营合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "企业承包经营合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "中外合资经营企业承包经营合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "中外合作经营企业承包经营合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "外商独资企业承包经营合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "乡镇企业承包经营合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "中外合资经营企业合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "中外合作经营企业合同纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "与公司有关的纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "股东资格确认纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "股东名册记载纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "请求变更公司登记纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "涤除公司登记（备案）纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "股东出资纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "股东未全面履行出资义务纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "股东抽逃出资纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "股东出资加速到期纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "股东失权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "新增资本认购纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "股东知情权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "请求公司收购股权、股份纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "股权转让纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司决议纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "公司决议效力确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "公司决议撤销纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "公司决议不成立确认纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "董事、监事、高级管理人员解任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司设立纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司证照返还纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "设立人责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司盈余分配纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "损害股东利益责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "损害公司利益责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "损害公司债权人利益责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司债券持有人会议决议效力纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "债券受托管理人损害债券持有人利益纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司关联交易损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司合并纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司分立纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司减资纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司增资纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司解散纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公司清算责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "清算义务人责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "清算组成员责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "上市公司收购纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "合伙企业纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "入伙纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "退伙纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "合伙企业财产份额转让纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "与农民专业合作社有关的纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "农民专业合作社成员资格确认纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "农民专业合作社成员出资纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "农民专业合作社合并纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "农民专业合作社分立纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "农民专业合作社解散纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "农民专业合作社清算纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "与破产有关的纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "请求撤销个别清偿行为纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "请求确认债务人行为无效纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "对外追收债权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "追收未缴出资纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "追收抽逃出资纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "追收非正常收入纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "破产债权确认纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "优先破产债权确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "职工破产债权确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "普通破产债权确认纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "取回权纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "一般取回权纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "出卖人取回权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "破产抵销权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "别除权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "破产撤销权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "损害债务人利益赔偿纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "管理人责任纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "证券纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "证券权利确认纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "股票权利确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "公司债券权利确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "国债权利确认纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "证券投资基金权利确认纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "证券交易合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "股票交易纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "公司债券交易纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "国债交易纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "证券投资基金交易纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "金融衍生品种交易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "证券承销合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "证券代销合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "证券包销合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "证券投资咨询纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "证券资信评级服务合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "证券回购合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "股票回购合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "国债回购合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "公司债券回购合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "证券投资基金回购合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "质押式证券回购纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "证券上市合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "证券交易代理合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "证券上市保荐合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "证券发行纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "证券认购纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "证券发行失败纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "证券返还纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "证券欺诈责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "证券内幕交易责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "操纵证券交易市场责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "证券虚假陈述责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "欺诈客户责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "证券托管纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "证券登记、存管、结算纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "融资融券交易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "客户交易结算资金纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "期货交易纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "期货经纪合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "期货透支交易纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "期货强行平仓纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "期货实物交割纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "期货保证合约纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "期货交易代理合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "侵占期货交易保证金纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "期货欺诈责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "操纵期货交易市场责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "期货内幕交易责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "期货虚假信息责任纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "信托纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "民事信托纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "营业信托纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "公益信托纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "保险纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "财产保险合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "财产损失保险合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "责任保险合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "信用保险合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "保证保险合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "保险人代位求偿权纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "人身保险合同纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "人寿保险合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "意外伤害保险合同纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "健康保险合同纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "再保险合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "保险经纪合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "保险代理合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "进出口信用保险合同纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "保险费纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "票据纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "票据付款请求权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "票据追索权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "票据交付请求权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "票据返还请求权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "票据损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "票据利益返还请求权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "汇票回单签发请求权纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "票据保证纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "确认票据无效纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "票据代理纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "票据回购纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "信用证纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "委托开立信用证纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "信用证开证纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "信用证议付纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "信用证欺诈纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "信用证融资纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "信用证转让纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "独立保函纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "独立保函开立纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "独立保函付款纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "独立保函追偿纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "独立保函欺诈纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "独立保函转让纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "独立保函通知纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "独立保函撤销纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "侵权责任纠纷",
+    "level": 1,
+    "children": [
+     {
+      "name": "侵权责任纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "监护人责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "用人单位责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "劳务派遣工作人员侵权责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "提供劳务者致害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "提供劳务者受害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "违反安全保障义务责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "经营场所、公共场所的经营者、管理者责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "群众性活动组织者责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "教育机构责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "性骚扰损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "产品责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "产品生产者责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "产品销售者责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "产品运输者责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "产品仓储者责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "机动车交通事故责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "智能网联汽车交通事故责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "非机动车交通事故责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "医疗损害责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "医疗诊疗责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "医疗产品责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "环境污染责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "大气污染责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "水污染责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "土壤污染责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "电子废物污染责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "固体废物污染责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "噪声污染责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "光污染责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "放射性污染责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "生态破坏责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "越界勘查、开采矿产资源责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "矿产资源压覆侵权责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "高度危险责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "民用核设施、核材料损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "民用航空器损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "占有、使用高度危险物损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "高度危险活动损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "遗失、抛弃高度危险物损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "非法占有高度危险物损害责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "饲养动物损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "建筑物和物件损害责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "物件脱落、坠落损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "建筑物、构筑物倒塌、塌陷损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "高空抛物、坠物损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "堆放物倒塌、滚落、滑落损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "公共道路妨碍通行损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "林木折断、倾倒、果实坠落损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "地面施工、地下设施损害责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "触电人身损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "义务帮工人受害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "见义勇为人受害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "防卫过当损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "紧急避险损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "驻香港、澳门特别行政区军人执行职务侵权责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "铁路运输损害责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "铁路运输人身损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "铁路运输财产损害责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "水上运输损害责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "水上运输人身损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "水上运输财产损害责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "航空运输损害责任纠纷",
+        "level": 3,
+        "children": [
+         {
+          "name": "航空运输人身损害责任纠纷",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "航空运输财产损害责任纠纷",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "公证损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "因申请财产保全损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "因申请行为保全损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "因申请证据保全损害责任纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "因申请先予执行损害责任纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "非讼程序案件案由",
+    "level": 1,
+    "children": [
+     {
+      "name": "选民资格案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请确定选民资格",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "宣告失踪、宣告死亡案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请宣告自然人失踪",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请撤销宣告失踪判决",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请为失踪人财产指定、变更代管人",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请宣告自然人死亡",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请撤销宣告自然人死亡判决",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "认定自然人无民事行为能力、限制民事行为能力案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请宣告自然人无民事行为能力",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请宣告自然人限制民事行为能力",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请宣告自然人恢复限制民事行为能力",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请宣告自然人恢复完全民事行为能力",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "指定遗产管理人案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请指定遗产管理人",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "认定财产无主案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请认定财产无主",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请撤销认定财产无主判决",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "确认调解协议案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请司法确认调解协议",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请撤销确认调解协议裁定",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "确认生态环境损害赔偿协议案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请司法确认生态环境损害赔偿协议",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "实现担保物权案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请实现担保物权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请撤销准许实现担保物权裁定",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "监护权特别程序案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请确定监护人",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请指定监护人",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请变更监护人",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请撤销监护人资格",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请恢复监护人资格",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "督促程序案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请支付令",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "公示催告程序案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请公示催告",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "公司清算案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请公司清算",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "破产程序案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请破产清算",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请破产重整",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请破产和解",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请对破产财产追加分配",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "申请诉前停止侵害知识产权案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请诉前停止侵害发明专利权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害实用新型专利权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害外观设计专利权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害注册商标专用权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害著作权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害植物新品种权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害计算机软件著作权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害集成电路布图设计专有权",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害技术秘密",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前停止侵害经营秘密",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "申请保全案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请诉前财产保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前行为保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请诉前证据保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请执行前财产保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请中止支付信用证项下款项",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请中止支付保函项下款项",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "申请人身安全保护令案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请人身安全保护令",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "申请人格权侵害禁令案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请人格权侵害禁令",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "仲裁司法审查案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请确认仲裁协议效力",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请撤销仲裁裁决",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请仲裁前财产保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请仲裁前行为保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请仲裁前证据保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "仲裁程序中的财产保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "仲裁程序中的行为保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "仲裁程序中的证据保全",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "海事诉讼特别程序案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请海事请求保全",
+        "level": 3,
+        "children": [
+         {
+          "name": "申请扣押船舶",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请拍卖扣押船舶",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请扣押船载货物",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请拍卖扣押船载货物",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请扣押船用燃油及船用物料",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请拍卖扣押船用燃油及船用物料",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "申请海事支付令",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请海事强制令",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请海事证据保全",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请设立海事赔偿责任限制基金",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请船舶优先权催告",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "申请海事债权登记与受偿",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "申请承认与执行法院判决、仲裁裁决案件",
+      "level": 2,
+      "children": [
+       {
+        "name": "申请认可和执行港澳台地区法院判决、仲裁裁决",
+        "level": 3,
+        "children": [
+         {
+          "name": "申请认可和执行香港特别行政区法院民事判决",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请认可和执行香港特别行政区仲裁裁决",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请认可和执行澳门特别行政区法院民事判决",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请认可和执行澳门特别行政区仲裁裁决",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请认可和执行台湾地区法院民事判决",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请认可和执行台湾地区仲裁裁决",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "申请承认和执行外国法院判决、仲裁裁决",
+        "level": 3,
+        "children": [
+         {
+          "name": "申请承认和执行外国法院民事判决、裁定",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请承认和执行外国仲裁裁决",
+          "level": 4,
+          "children": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "特殊诉讼程序案件案由",
+    "level": 1,
+    "children": [
+     {
+      "name": "与宣告失踪、宣告死亡案件有关的纠纷",
+      "level": 2,
+      "children": [
+       {
+        "name": "失踪人债务支付纠纷",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "被撤销死亡宣告人请求返还财产纠纷",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "公益诉讼",
+      "level": 2,
+      "children": [
+       {
+        "name": "生态环境保护民事公益诉讼",
+        "level": 3,
+        "children": [
+         {
+          "name": "环境污染民事公益诉讼",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "生态破坏民事公益诉讼",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "生态环境损害赔偿诉讼",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "文物和文化遗产保护民事公益诉讼",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "安全生产民事公益诉讼",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "英雄烈士保护民事公益诉讼",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "军人权益保护民事公益诉讼",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "未成年人保护民事公益诉讼",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "消费者权益保护民事公益诉讼",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "个人信息保护民事公益诉讼",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "妇女权益保障民事公益诉讼",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "第三人撤销之诉",
+      "level": 2,
+      "children": [
+       {
+        "name": "第三人撤销之诉",
+        "level": 3,
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "执行程序中的异议之诉",
+      "level": 2,
+      "children": [
+       {
+        "name": "执行异议之诉",
+        "level": 3,
+        "children": [
+         {
+          "name": "案外人执行异议之诉",
+          "level": 4,
+          "children": []
+         },
+         {
+          "name": "申请执行人执行异议之诉",
+          "level": 4,
+          "children": []
+         }
+        ]
+       },
+       {
+        "name": "追加、变更被执行人异议之诉",
+        "level": 3,
+        "children": []
+       },
+       {
+        "name": "执行分配方案异议之诉",
+        "level": 3,
+        "children": []
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,64 @@
+# 基线配置（论文表 4 的“原生推理”列、表 5 各行）
+# 所有基线共用同一提示词目录 prompts/、同一截断规则（4000 字）与同一评测口径（eval/）。
+
+prompting:                      # scripts/run_inference.py --method
+  native:
+    template: prompts/native_template.txt
+    max_tokens: 96
+    temperature: 0.0
+  cot:
+    template: prompts/cot_template.txt
+    max_tokens: 512
+    temperature: 0.0
+  hier:
+    template: prompts/hier_template.txt
+    max_tokens: 96
+    temperature: 0.0
+  sc:                            # 自一致性
+    template: prompts/native_template.txt
+    n_sc: 16
+    temperature: 0.7
+    top_p: 0.95
+    max_tokens: 96
+
+models:                         # 表 4 的 7 个生成器（Hugging Face id）
+  - Qwen/Qwen3.5-9B
+  - Qwen/Qwen3.5-4B
+  - google/gemma-4-E4B-it
+  - openbmb/MiniCPM5-2B
+  - Qwen/Qwen3-8B
+  - Qwen/Qwen3-30B-A3B
+  - CSHaitao/LegalOne-8B
+
+agents:                         # 表 5 中除提示词方法外的两类基线
+  rstar_orig:                   # 原始 rStar：整题一次 MCTS、开放作答，K=8
+    script: scripts/methods/rstar_orig.py
+    k: 8
+  berry:                        # LLaMA-Berry 风格 Self-Refine MCTS，预算 8
+    script: scripts/methods/berry.py
+    budget: 8
+
+supervised:                     # 表 5 的三个监督基线（训练集 = data/train.jsonl）
+  textcnn:
+    script: scripts/supervised/textcnn.py
+    encoder: 字级 embedding（非预训练）
+    lr: 1e-3
+    batch: 32
+    epochs: 12
+    class_weight_exponent: 0.5
+    seq_len: 2048            # 头 1536 + 尾 512
+  topjudge:
+    script: scripts/supervised/topjudge.py
+    encoder: bert-base-chinese-wwm-ext (dienstag/chinese-bert-wwm-ext)
+    lr: 3e-5
+    batch: 32
+    epochs: 10
+    seq_len: 512             # 头 384 + 尾 126
+  iracps:
+    script: scripts/supervised/iracps.py
+    encoder: dienstag/chinese-bert-wwm-ext
+    lr: 3e-5
+    batch: 16
+    epochs: 8
+    lam: 0.5
+    note: 理由抽取为弱监督（按句切分 + 核心词），非原文标注的忠实复现

@@ -1,0 +1,35 @@
+# 消融配置（论文表 6）
+#
+# 9 组消融分两类：
+#  (a) 直接改开关重跑方法：final_only_disc / no_calib / no_summary / fixed_c / no_vote；
+#  (b) 从主实验的中间产物派生（不调用模型）：no_mcts / no_disc / no_eval / no_hier。
+# 派生口径与论文一致：no_disc = J 取路径访问占比 s；no_eval = J 取层级一致率 a；
+# no_mcts = 取贪心融合的单条路径；no_hier = 16 票中出现最多的完整路径。
+
+rerun_with_flag:                # bash scripts/run_method_v3.sh runs/<out> 8 1 <flag>
+  final_only_disc: --final_only_disc     # 鉴别器只校验末级
+  no_summary: --no_summary               # 不做要素摘要
+  fixed_c: --fixed_c                     # PUCT 常数 c 固定为 2.0（不做深度衰减）
+
+rerun_with_script:
+  no_calib:
+    gen_script: scripts/methods/method_v3_nc.py   # 关闭 BERT 兜底校准
+  no_vote:
+    gen_script: scripts/methods/ablation_novote.py # lambda=1，只用层级先验 P_h
+
+derive_from_main_run:           # scripts/derive_preds.py --mode <mode>
+  no_mcts:
+    mode: nomcts
+    input: paths_nomcts_<tag>.jsonl（gen 阶段产物，单路径）
+  no_disc:
+    mode: max_share
+    input: preds_<tag>.jsonl（disc 阶段产物，含 paths[J, s, a]）
+  no_eval:
+    mode: max_a
+    input: preds_<tag>.jsonl
+  no_hier:
+    mode: vote_top
+    input: gen.jsonl（16 票）
+
+# 注意：no_disc 与旧的 no_eval 派生实现曾给出逐字节相同的预测（share 与 visits 同序），
+# 因此表 6 中 no_eval 使用 J = a 的口径（scripts/derive_preds.py --mode max_a）。

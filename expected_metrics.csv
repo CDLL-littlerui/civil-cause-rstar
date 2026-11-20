@@ -1,0 +1,40 @@
+file,table,system,method,n,macro_f1,macro_precision,macro_recall,accuracy,hvr,n_classes,invalid_rate
+ours_qwen3.5-9b_s1.jsonl,4,Qwen3.5-9B,Ours (seed 1),770,0.5082,0.5721,0.5,0.7078,1.0,109,0.0338
+ours_qwen3.5-9b_s2.jsonl,4,Qwen3.5-9B,Ours (seed 2),770,0.5068,0.5706,0.4991,0.7065,1.0,109,0.0338
+ours_qwen3.5-9b_s3.jsonl,4,Qwen3.5-9B,Ours (seed 3),770,0.5038,0.5683,0.4963,0.7026,1.0,109,0.0338
+ours_qwen3.5-4b.jsonl,4,Qwen3.5-4B,Ours,770,0.4872,0.5724,0.4903,0.6558,1.0,103,0.0377
+ours_gemma-4-e4b.jsonl,4,Gemma-4-E4B-it,Ours,770,0.3799,0.4526,0.3752,0.6091,1.0,125,0.0377
+ours_minicpm5-2b.jsonl,4,MiniCPM5-2B,Ours,770,0.3303,0.3962,0.3285,0.5545,1.0,130,0.0455
+ours_qwen3-8b.jsonl,4,Qwen3-8B,Ours,770,0.425,0.5216,0.4217,0.6299,1.0,115,0.0429
+ours_qwen3-30b-a3b.jsonl,4,Qwen3-30B-A3B,Ours,770,0.4375,0.5114,0.4342,0.6429,1.0,114,0.0312
+ours_legalone-8b.jsonl,4,LegalOne-8B,Ours,770,0.4954,0.5641,0.4829,0.6961,1.0,111,0.0455
+native_qwen3.5-9b.jsonl,4,Qwen3.5-9B,Native,770,0.4297,0.5352,0.4167,0.487,0.6325,90,0.3208
+native_qwen3.5-4b.jsonl,4,Qwen3.5-4B,Native,770,0.3236,0.4561,0.328,0.3961,0.6442,93,0.3273
+native_gemma-4-e4b.jsonl,4,Gemma-4-E4B-it,Native,770,0.2573,0.3872,0.2379,0.2688,0.4468,87,0.5961
+native_minicpm5-2b.jsonl,4,MiniCPM5-2B,Native,770,0.2588,0.3632,0.256,0.2792,0.6182,84,0.5403
+native_qwen3-8b.jsonl,4,Qwen3-8B,Native,770,0.3523,0.458,0.3446,0.4117,0.5325,92,0.3714
+native_qwen3-30b-a3b.jsonl,4,Qwen3-30B-A3B,Native,770,0.357,0.4545,0.3633,0.4247,0.6818,90,0.3065
+native_legalone-8b.jsonl,4,LegalOne-8B,Native,770,0.4465,0.6026,0.4247,0.513,0.8247,93,0.2948
+hier_qwen3.5-9b.jsonl,5,Qwen3.5-9B,Hierarchical prompting,770,0.393,0.4459,0.3952,0.6468,1.0,126,0.0494
+native_qwen3.5-9b.jsonl,5,Qwen3.5-9B,Native,770,0.4297,0.5352,0.4167,0.487,0.6325,90,0.3208
+cot_qwen3.5-9b.jsonl,5,Qwen3.5-9B,CoT,770,0.382,0.5246,0.3517,0.4065,0.5844,89,0.4299
+sc_qwen3.5-9b_s1.jsonl,5,Qwen3.5-9B,Self-consistency (seed 1),770,0.4608,0.5921,0.4442,0.4961,0.6,86,0.3442
+sc_qwen3.5-9b_s2.jsonl,5,Qwen3.5-9B,Self-consistency (seed 2),770,0.4626,0.5899,0.443,0.4948,0.6091,86,0.3532
+sc_qwen3.5-9b_s3.jsonl,5,Qwen3.5-9B,Self-consistency (seed 3),770,0.4445,0.5761,0.4267,0.4987,0.5857,90,0.3455
+rstar_s1.jsonl,5,Qwen3.5-9B + Qwen3.5-4B,rStar (seed 1),770,0.4642,0.6375,0.4207,0.5026,0.7909,92,0.3455
+rstar_s2.jsonl,5,Qwen3.5-9B + Qwen3.5-4B,rStar (seed 2),770,0.4714,0.6308,0.4359,0.5208,0.826,92,0.3312
+rstar_s3.jsonl,5,Qwen3.5-9B + Qwen3.5-4B,rStar (seed 3),770,0.4827,0.6525,0.4449,0.5143,0.8338,89,0.3312
+berry.jsonl,5,Qwen3.5-9B,LLaMA-Berry,770,0.3771,0.6016,0.3247,0.3753,0.9481,89,0.4753
+native_r1-distill-7b.jsonl,5,R1-Distill-Qwen-7B,Native,770,0.1699,0.2955,0.143,0.1597,0.274,86,0.6896
+sup_textcnn.jsonl,5,TextCNN,Supervised baseline,770,0.3828,0.4781,0.3967,0.4688,1.0,91,0.2013
+sup_topjudge.jsonl,5,TopJudge (BERT-wwm-ext),Supervised baseline,770,0.5279,0.6267,0.5205,0.561,1.0,83,0.2364
+sup_iracps.jsonl,5,IRACPS (BERT-wwm-ext),Supervised baseline,770,0.4565,0.5239,0.4702,0.513,1.0,84,0.2494
+abl_no_mcts.jsonl,6,Qwen3.5-9B,w/o MCTS,770,0.4765,0.5538,0.4675,0.6922,1.0,114,0.0364
+abl_no_disc.jsonl,6,Qwen3.5-9B,w/o discriminator,770,0.487,0.5616,0.4752,0.6974,1.0,113,0.0416
+abl_no_eval.jsonl,6,Qwen3.5-9B,w/o evaluator (J = a),770,0.476,0.5396,0.4684,0.6935,1.0,114,0.0338
+abl_no_hier.jsonl,6,Qwen3.5-9B,w/o hierarchy,770,0.3996,0.5118,0.3815,0.5351,1.0,108,0.2364
+abl_final_only_disc.jsonl,6,Qwen3.5-9B,"discriminator, final level only",770,0.5063,0.5747,0.491,0.7078,1.0,111,0.0351
+abl_no_calib.jsonl,6,Qwen3.5-9B,w/o BERT calibration,770,0.508,0.581,0.4972,0.7039,1.0,109,0.0338
+abl_no_summary.jsonl,6,Qwen3.5-9B,w/o element summary,770,0.4938,0.5791,0.4892,0.7052,1.0,111,0.0351
+abl_fixed_c.jsonl,6,Qwen3.5-9B,fixed c = 2.0,770,0.5029,0.5673,0.4963,0.7026,1.0,109,0.0351
+abl_no_vote.jsonl,6,Qwen3.5-9B,w/o vote prior (pure P_h),770,0.4358,0.4866,0.4314,0.661,1.0,118,0.0532

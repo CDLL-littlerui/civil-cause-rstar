@@ -1,0 +1,44 @@
+# CAD-v2 划分与清洗配置（步骤 3-C 唯一事实来源）
+# 生效方式：python scripts/build_cad_v2.py --split-config configs/split_v2.yaml
+# 修改本文件即等于修改划分口径；改后须重跑 build_cad_v2.py 并更新 MANIFEST.md 中的 sha256。
+
+seed: 42
+
+# 每案由配额（分层随机抽取）
+test_per_cause: 10       # 测试集
+dev_per_cause: 3         # 开发集
+fewshot_per_cause: 2     # 每案由少样本示例池
+min_per_cause: 15        # 全表样本数 < 15 的案由不进测试/开发/示例池，全部进训练池
+
+# 训练池内部的验证集比例（按案由分层）
+valid_ratio: 0.1
+
+# 固定 10 条 few-shot 示例：按 L1 大类分层，5 折 × 2 条
+fewshot10_size: 10
+fewshot10_folds: 5
+
+# 清洗阈值
+min_len: 100             # 去空白后输入长度下限（字符）
+dedup:
+  exact: true            # 去空白后完全一致
+  simhash:
+    enabled: true
+    ngram: 4             # 字符 4-gram
+    bits: 64
+    bands: 4             # 4 段 16bit 分桶召回
+    max_hamming: 3       # 汉明距离 <= 3 判为近重复，组内保留 source_id 最小者
+
+# 输入构造与掩码
+input:
+  sections: [claim, fact_description]   # 原告诉称 + 事实与理由（含被告辩称与查明事实）
+  exclude: [header, court_view, judgment, footer]
+mask:
+  placeholder: "[案由]"
+  mask_canonical_name: true      # 规范叶名
+  mask_raw_name: true            # 原始案由名
+  mask_ancestors: true           # gold_path 各级祖先名
+  mask_core_term: true           # 去“纠纷”后的核心词
+  core_term_min_len: 3           # 核心词长度 >= 3 才掩（避免抹掉“合同”“保险”）
+
+taxonomy: vocab/cause_taxonomy_2020_tree.json   # 2020 修正版，927 节点
+same_name_policy: deepest      # 同名节点取最深层级
