@@ -124,7 +124,7 @@ def normalize(name, idx, manual=None):
         n, _ = pick(m["规范名"], idx)
         if n is not None and "L%d" % n["level"] == m["层级"].strip():
             return dict(规范名称=n["name"], 层级="L%d" % n["level"], 完整路径="/".join(n["full_path"]),
-                        方法="人工映射", 需人工确认="否", 备注="%s｜%s" % (m["类型"], m["依据"]))
+                        方法="人工映射", 需人工确认="否", 备注="%s｜%s" % (m["类型"], m.get("法律依据") or m.get("依据", "")))
     if name in idx:
         n, note = pick(name, idx)
         return dict(规范名称=n["name"], 层级="L%d" % n["level"],
